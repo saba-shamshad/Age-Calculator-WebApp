@@ -51,7 +51,9 @@ It adjusts calculations if the current day or month is less than the birth day o
 4. *Display*
    
 The final age is displayed in the format:
-You are [X] years [Y] months [Z] days old
+
+You are [X] years [Y] months [Z] days old.
+
 The result is updated dynamically without refreshing the page.
 
 📍 **Live Demo**    
