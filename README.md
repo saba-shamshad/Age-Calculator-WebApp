@@ -45,17 +45,17 @@ The JavaScript script restricts the user from selecting future dates to prevent 
 
 3. *Calculation Logic*
 
--The script extracts the day, month, and year from both the current date and the selected birth date.
+-The script extracts the day, month, and year from both the current date and the selected birth date.-
 
--It handles date and month rollovers carefully to compute the correct age even when days or months are incomplete.
+-It handles date and month rollovers carefully to compute the correct age even when days or months are incomplete.-
 
--It adjusts calculations if the current day or month is less than the birth day or month.
+-It adjusts calculations if the current day or month is less than the birth day or month.-
 
 4. *Display*
 The final age is displayed in the format:
 
--You are [X] years [Y] months [Z] days old
--The result is updated dynamically without refreshing the page.
+-You are [X] years [Y] months [Z] days old-
+-The result is updated dynamically without refreshing the page.-
 
 
 📂 **Project Structure**
@@ -66,10 +66,8 @@ The final age is displayed in the format:
 
 
 📍 **Live Demo**
-
-🔗 View Live Demo : https://saba-shamshad.github.io/Age-Calculator-WebApp/
+https://saba-shamshad.github.io/Age-Calculator-WebApp/
 
 
 🗂 **GitHub Repository**
-
-💻 Visit the Repository :
+https://github.com/saba-shamshad/Age-Calculator-WebApp
