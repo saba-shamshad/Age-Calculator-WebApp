@@ -2,9 +2,6 @@
 The Age Calculator is a simple, fully responsive web application that allows users to calculate their exact age in years, months, and days by simply selecting their birth date.
 This project is built using HTML, CSS, and JavaScript, focusing on clean design and precise calculation logic.
 
-
-
-
 ✨ **Key Features**
 
 🎯 *Real-Time Age Calculation*
@@ -26,13 +23,11 @@ No external libraries or frameworks used. The logic is built from scratch for ed
 Works smoothly across all modern browsers.
 
 
-
 🔧 **Technologies Used**
 
-*HTML5*	: Structure and input handling
-*CSS3*	: Styling, layout, and responsiveness
-*JavaScript* :	Dynamic behavior and age calculation logic
-
+*HTML5*	: Structure and input handling.            
+*CSS3*	: Styling, layout, and responsiveness.    
+*JavaScript* :	Dynamic behavior and age calculation logic.   
 
 
 🚀 **How It Works**
@@ -45,17 +40,16 @@ The JavaScript script restricts the user from selecting future dates to prevent 
 
 3. *Calculation Logic*
 
--The script extracts the day, month, and year from both the current date and the selected birth date.-
+The script extracts the day, month, and year from both the current date and the selected birth date.
 
--It handles date and month rollovers carefully to compute the correct age even when days or months are incomplete.-
+It handles date and month rollovers carefully to compute the correct age even when days or months are incomplete.
 
--It adjusts calculations if the current day or month is less than the birth day or month.-
+It adjusts calculations if the current day or month is less than the birth day or month.
 
 4. *Display*
 The final age is displayed in the format:
-
--You are [X] years [Y] months [Z] days old-
--The result is updated dynamically without refreshing the page.-
+You are [X] years [Y] months [Z] days old
+The result is updated dynamically without refreshing the page.
 
 
 📂 **Project Structure**
